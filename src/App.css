@@ -1,0 +1,11 @@
+body {
+  background-color: #EFF5FB;
+}
+
+li {
+  padding: 15px;
+  font-family: Arial;
+}
+ul {
+  list-style: square;
+}
